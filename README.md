@@ -1,4 +1,3 @@
-# -AED
 Algoritmos y Estructuras de datos
 
 K1051
